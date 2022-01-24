@@ -10,6 +10,6 @@ Science](https://r4ds.had.co.nz/).
 It’s separated in different R script files (comments \> markdown, just
 kidding!).
 
-| Section            |   Progress    |                                                                  Link |
-|--------------------|:-------------:|----------------------------------------------------------------------:|
-| Data visualization | Almost there… | [Link](https://github.com/brunomontezano/r4ds-solutions/R/data-vis.R) |
+| Section            |   Progress    |                                                                              Link |
+|--------------------|:-------------:|----------------------------------------------------------------------------------:|
+| Data visualization | Almost there… | [Link](https://github.com/brunomontezano/r4ds-solutions/blob/master/R/data-vis.R) |
